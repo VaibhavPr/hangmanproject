@@ -1,2 +1,2 @@
 # hangmanproject
-Hangman Code using C Language
+Hangman Code using C Language and Python
